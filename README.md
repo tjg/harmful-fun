@@ -16,5 +16,5 @@ Open [`src/my_sketch/core.clj`](https://github.com/tjg/harmful-fun/blob/master/s
 - We made little changes and saw what happened. We don't need complete
   understanding, or seeing far ahead.
 
-- We may simplify our code further, by noticing when we repeat
-  ourselves. Often gives us deeper insights.
+- We may simplify our code further, especially if we notice that
+  we repeated ourselves. Often leads to insights.
