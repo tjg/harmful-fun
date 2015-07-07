@@ -7,3 +7,12 @@ Maybe add a sound when it bounces.
 ## Usage
 
 Open [`src/my_sketch/core.clj`](https://github.com/tjg/harmful-fun/blob/master/src/harmful_fun/core.clj) in Light Table. Execute it. You should see a canvas pop up with something moving!
+
+
+## Thoughts
+
+- We made little changes and saw what happened. We don't need complete
+  understanding, or seeing far ahead.
+
+- We may simplify our code further, by noticing when we repeat
+  ourselves. Often gives us deeper insights.
