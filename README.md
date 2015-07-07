@@ -1,5 +1,7 @@
 # harmful-fun
 
+<img src="https://raw.githubusercontent.com/tjg/harmful-fun/master/doc/bouncing-ball.png" alt="Visualization of moving ball" title="Ball" align="right" />
+
 Our little project. Let's draw a moving ball!
 Maybe add a sound when it bounces.
 
