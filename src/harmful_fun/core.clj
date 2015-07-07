@@ -1,6 +1,6 @@
 ;; This is our namespace, "my-sketch.core".
 ;; We can organize things in files, so we don't have huuuge files.
-(ns my-sketch.core
+(ns harmful-fun.core
   ;; Pull in stuff from a couple Quil namespace. Quil is what lets us draw.
   ;; For example, when you see "q/background" below, that's the function
   ;; "background" from the "quil.core" namespace.
